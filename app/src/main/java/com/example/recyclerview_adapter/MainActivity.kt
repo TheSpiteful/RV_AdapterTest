@@ -35,13 +35,13 @@ class MainActivity : AppCompatActivity() {
         val user = UserModel("Dmytro", "Moroz")
         userList.add(user)
 
-        val user2 = UserModel("Dmytro", "Moroz")
+        val user2 = UserModel("Dmytro1", "Moroz")
         userList.add(user2)
 
-        val user3 = UserModel("Dmytro", "Moroz")
+        val user3 = UserModel("Dmytro2", "Moroz")
         userList.add(user3)
 
-        val user4 = UserModel("Dmytro", "Moroz")
+        val user4 = UserModel("Dmytro3", "Moroz")
         userList.add(user4)
 
         return userList
